@@ -1,5 +1,3 @@
-# Agente-Inteligente-para-Controle-Medico
-
 # Agente Inteligente para Controle Médico
 
 ## Sobre o Projeto
